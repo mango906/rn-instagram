@@ -9,8 +9,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@expo/vector-icons": "^10.0.5",
+    "native-base": "^2.13.8",
     "react": "16.9.0",
-    "react-native": "0.61.1"
+    "react-native": "0.61.1",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^1.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
